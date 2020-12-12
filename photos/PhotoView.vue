@@ -1,11 +1,11 @@
 <template>
   <div>
     Content
-    <!-- <img
-      v-for="photo in currentAlbumPhotos"
-      :src="photo.thumbnailUrl"
-      :key="photo.id"
-    /> -->
+        <!-- <img
+          v-for="photo in currentAlbumPhotos"
+          :src="photo.thumbnailUrl"
+          :key="photo.id"
+        /> -->
   </div>
 </template>
 
